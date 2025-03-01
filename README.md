@@ -1,4 +1,4 @@
-# PDF Parser
+# PDF Extractor
 
 PDF に埋め込まれた画像オブジェクトを OCR で処理して、日本語テキストを取り出します。
 
